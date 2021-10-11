@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="278.001" height="358.001" viewBox="0 0 278.001 358.001">
+  <g id="グループ_339" data-name="グループ 339" transform="translate(-155 -2453)">
+    <circle id="楕円形_8" data-name="楕円形 8" cx="138.001" cy="138.001" r="138.001" transform="translate(156 2534)" fill="none" stroke="#e30513" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="グループ_294" data-name="グループ 294" transform="translate(64.806 19.216)">
+      <g id="グループ_293" data-name="グループ 293" transform="translate(181.055 2590.765)">
+        <path id="パス_512" data-name="パス 512" d="M144.225,365.55l-11.477,38.59,14.8-6.653,10.978,15.8,12.309-36.428Z" transform="translate(-126.555 -291.229)" fill="#151414"/>
+        <path id="パス_513" data-name="パス 513" d="M192.127,365.427l11.477,38.59-14.8-6.654-10.978,15.8-12.309-36.428Z" transform="translate(-114.908 -291.273)" fill="#151414"/>
+        <line id="線_13" data-name="線 13" x1="7.152" y2="23.121" transform="translate(9.686 86.464)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" stroke-dasharray="1"/>
+        <line id="線_14" data-name="線 14" x1="7.152" y2="23.121" transform="translate(30.977 94.448)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" stroke-dasharray="1"/>
+        <line id="線_15" data-name="線 15" x2="7.329" y2="23.066" transform="translate(77.962 86.824)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" stroke-dasharray="1"/>
+        <line id="線_16" data-name="線 16" x2="7.329" y2="23.066" transform="translate(57.004 94.808)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" stroke-dasharray="1"/>
+        <ellipse id="楕円形_9" data-name="楕円形 9" cx="47.808" cy="46.891" rx="47.808" ry="46.891" fill="#464646"/>
+        <ellipse id="楕円形_10" data-name="楕円形 10" cx="45.149" cy="44.284" rx="45.149" ry="44.284" transform="translate(2.658 2.607)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" stroke-dasharray="1"/>
+      </g>
+      <text id="S" transform="translate(211.85 2654.147)" fill="#fff" font-size="44" font-family="Helvetica"><tspan x="0" y="0">S</tspan></text>
+    </g>
+    <text id="_1" data-name="1" transform="translate(176 2592)" fill="#e30513" font-size="120" font-family="NotoSansJP-Black, Noto Sans JP" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>
